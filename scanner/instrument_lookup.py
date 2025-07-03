@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-from kite_auth import get_kite
+from scanner.kite_auth import get_kite
 
 INSTRUMENT_FILE = "instruments_nse.csv"
 
