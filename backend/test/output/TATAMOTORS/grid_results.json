@@ -1,0 +1,2216 @@
+[
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:02.897407",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:05.357547",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:07.557147",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:11.307348",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:14.527430",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:17.377504",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:22.953031",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.709,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:27.684785",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7354,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:31.932526",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:34.857584",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:37.227438",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:39.365257",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:42.927207",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:46.097584",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:48.947271",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:54.617297",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:22:59.608945",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:03.970205",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:06.611241",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:08.977380",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:11.141287",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:14.719169",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:17.897659",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:20.799207",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:26.427094",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:31.347206",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:35.674897",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:38.531968",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:40.893939",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:43.077271",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7354,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:46.829244",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:50.052452",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:52.879551",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.709,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:23:58.567300",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:03.617475",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.709,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:08.007372",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:10.730694",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:13.097154",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:15.247649",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:18.950196",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:22.191439",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:25.002325",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:30.687267",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:35.597405",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:39.947187",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:42.997423",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:45.357322",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:47.567149",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:51.187997",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:54.374090",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:24:57.299215",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7407,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:02.994997",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.746,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:07.776290",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:12.107636",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:15.047281",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:17.627247",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:19.977575",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7143,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:24.310656",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7354,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:27.677251",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7354,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:30.787068",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.6878,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:36.867354",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:41.987294",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.2,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:46.449063",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:49.323084",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:51.757258",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:54.097640",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7196,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:25:57.888723",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:01.207470",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:04.147112",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.709,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:10.509623",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7037,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:15.542503",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.3,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:20.021004",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:23.017164",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:25.647269",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 20,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:27.987149",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:31.932096",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:35.639101",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 30,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:39.322139",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 16,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:46.717574",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7249,
+    "epochs": 50,
+    "batch_size": 32,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:52.977547",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  },
+  {
+    "accuracy": 0.7302,
+    "epochs": 50,
+    "batch_size": 64,
+    "dropout": 0.4,
+    "layer_config": [
+      128,
+      64,
+      32
+    ],
+    "test_ratio": 0.2,
+    "trained_on": "2025-07-28T10:26:58.587117",
+    "features_used": [
+      "returns_1d",
+      "returns_5d",
+      "volatility_5d",
+      "avg_volume_10d",
+      "sma_20",
+      "sma_50",
+      "above_20ma",
+      "candle_body_ratio",
+      "rsi_14",
+      "atr_14",
+      "support_distance",
+      "resistance_distance",
+      "sr_band_width"
+    ]
+  }
+]
